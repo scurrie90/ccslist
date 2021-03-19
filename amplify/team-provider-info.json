@@ -14,6 +14,16 @@
     "categories": {
       "auth": {
         "ccslist": {}
+      },
+      "function": {
+        "CCSListTrigger3d7a28a1": {
+          "deploymentBucketName": "amplify-amplify05c26a9f5fe14-staging-192753-deployment",
+          "s3Key": "amplify-builds/CCSListTrigger3d7a28a1-36626f7868687838584d-build.zip"
+        },
+        "getListings": {
+          "deploymentBucketName": "amplify-amplify05c26a9f5fe14-staging-192753-deployment",
+          "s3Key": "amplify-builds/getListings-34336e727954334f5333-build.zip"
+        }
       }
     }
   }

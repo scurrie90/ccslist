@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "auth": {
+      "ccslist": [
+        "read"
+      ]
+    },
+    "function": {
+      "CCSListTrigger3d7a28a1": [
+        "create"
+      ]
+    },
+    "storage": {
+      "CCSList": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

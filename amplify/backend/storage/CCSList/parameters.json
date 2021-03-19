@@ -1,0 +1,5 @@
+{
+    "tableName": "ForSale",
+    "partitionKeyName": "category",
+    "partitionKeyType": "N"
+}
